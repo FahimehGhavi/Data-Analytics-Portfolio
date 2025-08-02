@@ -8,6 +8,7 @@ This dashboard was created in Tableau to analyze Airbnb pricing and revenue tren
 
 🔗 [Click here to view the live dashboard](https://public.tableau.com/app/profile/fahimeh.ghavi/viz/AirBnBFullProject_17444909114610/Dashboard1)
 
+![Bike Sales Dashboard](./Tableau Dashboard – Airbnb.png)
 ---
 
 ##  Business Goal
