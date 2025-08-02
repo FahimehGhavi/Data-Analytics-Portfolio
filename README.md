@@ -12,7 +12,7 @@ Welcome to my data analytics project portfolio! I created this repository to sho
 |--------|-------|-------------|
 | [ Car Sales Dashboard](./car-sales-dashboard) | Looker Studio | Visual analysis of car sales and profit trends from 2019–2023 |
 | [ KPI Dashboard](./powerbi-kpi-dashboard) | Power BI | Dynamic dashboard tracking key business KPIs |
-| [ Weather Data Analysis](./weather-analysis-python) | Python, Pandas, Matplotlib | Exploratory analysis and visualization of real-world weather data |
+| [ Weather Data Analysis](./weather-data-analysis) | Python, Pandas, Matplotlib | Exploratory analysis and visualization of real-world weather data |
 
 ---
 
