@@ -6,7 +6,7 @@ This dashboard was created in Excel to analyze factors that influence customer b
 
 ##  Dashboard Preview
 
-![Bike Sales Dashboard](./Capture.JPG)
+![Bike Sales Dashboard](./excel-bike-dashboard.JPG)
 
 ---
 
