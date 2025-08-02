@@ -1,8 +1,18 @@
 # Car Sales & Profit Dashboard – 2025
 
-🔗 [View Dashboard](https://lookerstudio.google.com/u/0/reporting/4e8794a7-da97-4fc3-96d2-e761796a6b52/page/ut6SF)
+
 
 This project visualizes car sales and profit data from 2019–2023 using Google Looker Studio. It includes interactive filters, performance breakdown by model and dealer, and key KPIs. Here's the story the data tells:
+
+
+🔗 [View Dashboard](https://lookerstudio.google.com/your-link-here)
+
+---
+
+## 📊 Dashboard Preview
+
+![Car Sales Dashboard](./Car-sales.JPG)
+
 
 ---
 
