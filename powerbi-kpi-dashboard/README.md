@@ -2,9 +2,10 @@
 
 The dashboard was created to help business stakeholders monitor key performance indicators (KPIs) such as revenue, customer growth, product category performance, and regional trends. It includes interactive slicers and filters to explore the data across time, geography, and categories.
 
-##  View Dashboard
+## 🔗 View Dashboard
 
- *Screenshot coming soon*
+[👉 Click here to view the live Power BI dashboard](https://app.powerbi.com/onedrive/open?pbi_source=ODSPViewer&driveId=b!MsIfvJEPS0apdhySEjAdsfvRnQ1mR29Eh6NoHNFy6gSiLOhbcDqORYfGUHL3aUmT&itemId=01CUIOBUKDW5ULE3YUCJAYFATHL3Z46C5Q)
+
 
 ---
 
