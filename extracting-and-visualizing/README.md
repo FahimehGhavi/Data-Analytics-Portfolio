@@ -1,7 +1,7 @@
 # Extracting and Visualizing Stock Data
 
 
-## 🔗 View Dashboard
+## 🔗 View Code
 
 [👉 Click here to view the live Code](https://jupyterlabnext-1-labs-prod-jupyterlab-us-east-0.labs.cognitiveclass.ai/user/fahimehghavi/notebooks/PY0220EN/labs/project/Final%20Assignment.ipynb)
 
