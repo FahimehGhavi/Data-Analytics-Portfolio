@@ -57,5 +57,5 @@ These insights can help the company:
 
 ###  Final Thoughts:
 
-This dashboard doesn’t just show numbers — it **tells a story** about what’s working, what’s not, and where action can create the most value. It’s a tool for **strategic planning**, not just reporting.
+This dashboard doesn’t just show numbers, it **tells a story** about what’s working, what’s not, and where action can create the most value. It’s a tool for **strategic planning**, not just reporting.
 
