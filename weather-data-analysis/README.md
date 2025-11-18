@@ -18,7 +18,6 @@ I used Python with Pandas to clean and process the raw CSV file. I then used Mat
 - Year-over-year comparison of precipitation  
 - Extreme weather days (heatwaves, cold snaps)  
 - Rolling averages for smoothed seasonal trends
-
 ---
 
 ###  Key Findings
