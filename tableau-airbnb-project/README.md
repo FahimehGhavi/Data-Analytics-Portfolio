@@ -14,7 +14,7 @@ This dashboard was created in Tableau to analyze Airbnb pricing and revenue tren
 
 ##  Business Goal
 
-The goal was to help Airbnb hosts and stakeholders understand how different property features and locations influence price and revenue. By visualizing pricing trends and geographic differences, they can make data-driven decisions about listing strategies.
+The goal was to help Airbnb hosts and stakeholders understand how different property features and locations influence price and revenue. By visualizing pricing trends and geographic differences, they can make data-driven decisions about listing strategies
 
 ---
 
