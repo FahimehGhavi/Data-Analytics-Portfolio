@@ -1,7 +1,6 @@
 
 # Data Professional Survey Breakdown – Power BI Dashboard
 
-## 📊 View Dashboard
 
 ## 🔗 View Dashboard
 
